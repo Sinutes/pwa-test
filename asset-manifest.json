@@ -1,16 +1,16 @@
 {
   "main.css": "/pwa-test/static/css/main.e423e257.chunk.css",
-  "main.js": "/pwa-test/static/js/main.1356845f.chunk.js",
-  "main.js.map": "/pwa-test/static/js/main.1356845f.chunk.js.map",
+  "main.js": "/pwa-test/static/js/main.d15d7706.chunk.js",
+  "main.js.map": "/pwa-test/static/js/main.d15d7706.chunk.js.map",
   "static/js/1.2c80ac1f.chunk.js": "/pwa-test/static/js/1.2c80ac1f.chunk.js",
   "static/js/1.2c80ac1f.chunk.js.map": "/pwa-test/static/js/1.2c80ac1f.chunk.js.map",
-  "static/js/2.b1dd4c7b.chunk.js": "/pwa-test/static/js/2.b1dd4c7b.chunk.js",
-  "static/js/2.b1dd4c7b.chunk.js.map": "/pwa-test/static/js/2.b1dd4c7b.chunk.js.map",
+  "static/js/2.56e99804.chunk.js": "/pwa-test/static/js/2.56e99804.chunk.js",
+  "static/js/2.56e99804.chunk.js.map": "/pwa-test/static/js/2.56e99804.chunk.js.map",
   "runtime~main.js": "/pwa-test/static/js/runtime~main.3dff658c.js",
   "runtime~main.js.map": "/pwa-test/static/js/runtime~main.3dff658c.js.map",
   "static/media/logo.svg": "/pwa-test/static/media/logo.5d5d9eef.svg",
   "static/css/main.e423e257.chunk.css.map": "/pwa-test/static/css/main.e423e257.chunk.css.map",
   "index.html": "/pwa-test/index.html",
-  "precache-manifest.781284ed57583591a213d8d374dfa01c.js": "/pwa-test/precache-manifest.781284ed57583591a213d8d374dfa01c.js",
+  "precache-manifest.5807061ce5d50cb691e56de8658adb6e.js": "/pwa-test/precache-manifest.5807061ce5d50cb691e56de8658adb6e.js",
   "service-worker.js": "/pwa-test/service-worker.js"
 }
